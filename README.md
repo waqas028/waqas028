@@ -4,10 +4,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning **Jetpack Compose, Kotlin Flow, Koin Dependency Injection, App Performance,Storage and Battery saving.**
+- 🌱 I’m currently learning **Jetpack Compose, KMM,Clean Architecture App Performance, Storage and Battery saving.**
 - 👯 I’m looking to collaborate on Android, Kotlin, Java
 - 🤔 I’m looking for help with JetPack Compose
-- 💬 Ask me about Android, Kotlin, Java, Android Design Architecture
+- 💬 Ask me about Android, Kotlin, Java, and Android Design Architecture
 - 📫 How to reach me: waqaswaseem679@gmail.com
 - 👨‍💻 All of my projects are available at [https://github.com/waqas028](https://github.com/waqas028)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqas-4399361a3](https://www.linkedin.com/in/muhammad-waqas-4399361a3)
