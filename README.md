@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JetPack Compose
 - 💬 Ask me about Android, Kotlin, Java, and Android Design Architecture
 - 📫 How to reach me: waqaswaseem679@gmail.com
-- 👨‍💻 All of my projects are available at [https://github.com/waqas028](https://github.com/waqas028)
+- 👨‍💻 All of my projects are available at [https://github.com/waqas028](https://github.com/waqas028/Waqas_Projects)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqas-4399361a3](https://www.linkedin.com/in/muhammad-waqas-4399361a3)
 - ⚡ Fun fact **Fun with Code**
 -->
